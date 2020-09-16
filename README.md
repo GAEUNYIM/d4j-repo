@@ -1,6 +1,6 @@
 This repository contains necessary files needed for **Assignment 1**.
 
-Course: Software Engineering
-Professor: Jooyong Yi
-Semester: Fall 2020
-Contacts: Satbek Abdyldayev <satbek@unist.ac.kr>
+Course: Software Engineering  
+Professor: Jooyong Yi  
+Semester: Fall 2020  
+Contacts: Satbek Abdyldayev <satbek@unist.ac.kr>  
