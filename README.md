@@ -1,4 +1,4 @@
-This repository contains necessary files needed for **Assignment 1**.
+This repository contains necessary files for **Assignment 1**.
 
 Course: Software Engineering  
 Professor: Jooyong Yi  
